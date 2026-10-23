@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # day3_flutter_ui
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# day3-flutter-ui
+My Flutter internship project — Day 3 UI
+>>>>>>> 3b9a7c81ae9f3a0ff6c8f5ca3c1ec2662b4ec84b
